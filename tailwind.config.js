@@ -19,6 +19,9 @@ export default {
       "2xl": "1536px",
     },
     extend: {
+      colors: {
+        primary: "#802c6e",
+      },
       fontFamily: {
         ubuntu: ["Ubuntu", "sans-serif"],
       },
