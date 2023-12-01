@@ -13,7 +13,7 @@ Para desarrollar esta aplicación, se utilizaron las siguientes tecnologías y h
 
 ---
 ### Demo
-Ver demostración: PRONTO.
+Ver demostración: PRONTO. 😊
 
 ---
 ### Instalación
