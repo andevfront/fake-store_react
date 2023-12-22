@@ -7,8 +7,6 @@ export const GridProducts = () => {
     refetchOnWindowFocus: false,
   });
 
-  console.log(products);
-
   if (isLoading) return;
 
   return (

@@ -14,7 +14,7 @@ export const Header = () => {
             <FiHeart className="h-6 w-6" />
           </Link>
           <FiShoppingCart className="h-6 w-6" />
-          <a href="#">Mi cuenta</a>
+          <div>Mi cuenta</div>
         </div>
       </div>
     </header>

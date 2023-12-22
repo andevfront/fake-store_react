@@ -1,11 +1,6 @@
-export const userLogin = async (username, password) => {
+export const userLogin = async (requestBody) => {
   try {
     const url = "https://fakestoreapi.com/auth/login";
-
-    const requestBody = {
-      username: username,
-      password: password,
-    };
 
     const requestOptions = {
       method: "POST",
